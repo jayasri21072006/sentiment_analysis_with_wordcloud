@@ -153,3 +153,14 @@ if st.button("🔍 Analyze"):
                 st.pyplot(fig)
             else:
                 st.write("No text available to generate a word cloud.")
+st.markdown("---")
+st.markdown(
+    """
+    <div style="text-align:center; font-size:14px; color:gray;">
+        © 2026 JAYASRI T. All Rights Reserved.<br>
+        Licensed under the MIT License.<br>
+        Developed for educational and demonstration purposes only.
+    </div>
+    """,
+    unsafe_allow_html=True
+)
