@@ -2,7 +2,7 @@
 
 🚀 **Selected in Internal Smart India Hackathon (SIH) 2025 – College Level**
 
-This AI-powered web application was developed as a solution for a **2K25 Hackathon problem statement**, focused on analyzing large volumes of stakeholder comments submitted through public consultation platforms.
+This AI-powered web application was developed as a solution for analyzing large volumes of stakeholder comments submitted through public consultation platforms.
 
 The system performs sentiment analysis, generates concise summaries, and visualizes key themes using a dynamic word cloud — helping decision-makers efficiently interpret feedback on draft policies, amendments, and proposals.
 
