@@ -116,4 +116,5 @@ For major improvements, please open an issue first to discuss changes.
 
 ## 📜 License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License.  
+See the LICENSE file for details.
